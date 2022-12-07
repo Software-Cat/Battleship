@@ -12,7 +12,6 @@ public class App extends Application {
         primaryStage.setTitle("JavaFX Test");
 
         Battlefield battlefield = new Battlefield();
-        ScrollPane pane = new ScrollPane(battlefield);
 
         primaryStage.setScene(new Scene(battlefield, 1000, 1000));
         primaryStage.setResizable(false);
