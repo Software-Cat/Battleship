@@ -9,4 +9,4 @@
  */
 
 rootProject.name = 'Battleship'
-include('app', 'list', 'utilities')
+include('app')
