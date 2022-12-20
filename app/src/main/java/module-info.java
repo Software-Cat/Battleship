@@ -5,4 +5,6 @@ module battleship.app {
     requires static lombok;
 
     exports battleship.app;
+    exports battleship.app.core;
+    exports battleship.app.input;
 }

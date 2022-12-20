@@ -1,6 +1,5 @@
-package battleship.app;
+package battleship.app.core;
 
-import javafx.event.ActionEvent;
 import javafx.scene.control.Button;
 
 public class Cell extends Button {

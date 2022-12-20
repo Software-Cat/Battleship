@@ -1,4 +1,4 @@
-package battleship.app;
+package battleship.app.core;
 
 import lombok.Getter;
 import lombok.experimental.Accessors;

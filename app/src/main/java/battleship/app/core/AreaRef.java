@@ -1,4 +1,4 @@
-package battleship.app;
+package battleship.app.core;
 
 import java.util.ArrayList;
 import java.util.Collections;

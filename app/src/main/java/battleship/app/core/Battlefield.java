@@ -1,4 +1,4 @@
-package battleship.app;
+package battleship.app.core;
 
 import javafx.geometry.Insets;
 import javafx.scene.layout.GridPane;
