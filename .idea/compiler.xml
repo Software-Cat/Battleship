@@ -8,7 +8,7 @@
           <entry name="$PROJECT_DIR$/../../../ProgramData/Gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.24/13a394eed5c4f9efb2a6d956e2086f1d81e857d9/lombok-1.18.24.jar" />
         </processorPath>
         <module name="Battleship.app.test" />
-        <module name="Battleship.app.main" />
+        <module name="Programming.Java.Battleship.app.main" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="19" />
